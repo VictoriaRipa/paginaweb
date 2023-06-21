@@ -1,0 +1,66 @@
+.nav
+{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+.int
+{
+    font-size: 20px;
+    margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.color
+{
+    color: black;
+}
+.barra
+{
+    background-color: beige;
+}
+.listas
+{
+   text-decoration: none;
+}
+.tit 
+{
+    font-family: 'Pathway Gothic One', sans-serif;
+    
+}
+.medio
+{
+    text-align: center;
+  
+}
+
+.bordes
+{
+    border-color: transparent;
+}
+.dist
+{
+    margin-left: 25px;
+}
+body
+{
+    background: url("../img/fff.jpeg");
+    background-size: 100%;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.fot
+{
+    padding-left: 45%;
+    height: 4px;
+
+    
+}
+.nave
+{
+    background: url("../img/reloj.png");
+}
+.ar
+{
+    color: #E5E5E5;
+}
